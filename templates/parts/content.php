@@ -42,7 +42,7 @@
 				<span class="field"><a href="mailto:info@apartmentsinstjohns.ca">
 					info@apartmentsinstjohns.ca</a>
 				</span>
-				<span class="field">555-555-5555</span>
+				<span class="field">709-765-9888 / 709-743-3390</span>
 			</div>
 		</header>
  
@@ -53,7 +53,7 @@
 				<span class="field"><a href="mailto:info@apartmentsinstjohns.ca">
 					info@apartmentsinstjohns.ca</a>
 				</span>
-				<span class="field">555-555-5555</span>
+				<span class="field">709-765-9888 / 709-743-3390</span>
 			</div>
 		</div>
 

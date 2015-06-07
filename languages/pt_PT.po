@@ -1,0 +1,389 @@
+# Copyright (C) 2015 Cedaro
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shrake 2.1.0\n"
+"Report-Msgid-Bugs-To: https://audiotheme.com/support/\n"
+"POT-Creation-Date: 2015-06-07 16:38-0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-06-07 16:54-0000\n"
+"Last-Translator: Alvaro Gois dos Santos <alvarogois@ovni.org>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: pt_PT\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Página não encontrada."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Qualquer coisa que estava aqui deve ter ido embora. Talvez uma pesquisa "
+"ajude?"
+
+#: comments.php:38
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentário"
+msgstr[1] "%1$s comentários"
+
+#: comments.php:43 comments.php:63
+msgid "Leave a Reply"
+msgstr "Comentar"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: functions.php:110
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:111
+msgid "Social Menu"
+msgstr "Menu social"
+
+#: functions.php:156
+msgid "Footer Area"
+msgstr "Área do rodapé"
+
+#: functions.php:157
+msgid "Add widgets here to appear at the bottom of every page."
+msgstr "Os widgets aqui colocados aparecem no rodapé das páginas."
+
+#: header.php:32
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/customizer.php:21
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/hooks.php:80
+msgid "Read More"
+msgstr "Ler mais"
+
+#: includes/plugins/jetpack.php:32
+msgid "Load More Articles"
+msgstr "Carregar mais artigos"
+
+#. translators: %s: Author name
+#: includes/template-tags.php:135
+msgid "<span class=\"sep\">by</span> %s"
+msgstr "<span class=“sep”>por</span> %s"
+
+#. translators: %s: Publish date
+#: includes/template-tags.php:159
+msgid "<span class=\"sep\">on</span> %s"
+msgstr "<span class=“sep”>a</span> %s"
+
+#: includes/template-tags.php:194
+msgid "Categories:"
+msgstr "Categorias:"
+
+#: includes/template-tags.php:195
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: includes/template-tags.php:339
+msgid "Comment navigation"
+msgstr "Navegação pelos comentários"
+
+#: includes/template-tags.php:362
+msgid "Social Media Profiles"
+msgstr "Perfis de social media"
+
+#: includes/template-tags.php:390
+msgid "Submenu"
+msgstr "Submenu"
+
+#: includes/template-tags.php:414
+msgid "Page Links"
+msgstr "Ligações de páginas"
+
+#: includes/template-tags.php:529
+msgid "Add Menu"
+msgstr "Adicionar menu"
+
+#: includes/template-tags.php:547
+msgid "%1$s by Cedaro."
+msgstr "%1$s por Cedaro."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-content.php:39
+msgid "Full Text"
+msgstr "Texto completo"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-content.php:40
+msgid "Summary"
+msgstr "Um resumo"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-content.php:41
+msgid "Custom Excerpts"
+msgstr "Excertos personalizados"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-content.php:42
+msgid "No Content"
+msgstr "Sem conteúdo"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-content.php:164
+msgid "Archive Content"
+msgstr "Conteúdo de arquivo"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-images.php:33
+msgid "Post header"
+msgstr "Cabeçalho"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-images.php:38
+msgid "Thumbnails"
+msgstr "Miniaturas"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-archive-feature-images.php:145
+msgid "Archive Images"
+msgstr "Imagens de arquivo"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-customize-control-featuredcontent.php:46
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Ocorreu um erro. Por favor, recarregue a página e tente de novo."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-customize-control-playlist.php:64
+msgid "Edit Playlist"
+msgstr "Editar lista de reprodução"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:182
+msgid "Featured Content"
+msgstr "Conteúdo em destaque"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:183
+msgid "Your theme supports up to %d posts in its featured content area."
+msgstr "Este tema suporta até %d artigos na área de destaque."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:228
+msgid "Add Posts"
+msgstr "Adicionar artigos"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:236
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:237
+msgid "Close"
+msgstr "Fechar"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:244
+msgid "Find Posts"
+msgstr "Procurar artigos"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:252
+msgid "Search"
+msgstr "Procurar"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:299
+msgid "No items found."
+msgstr "Nenhum item encontrado."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:332
+msgid "Title"
+msgstr "Título"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:333
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:334
+msgid "Date"
+msgstr "Data"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:335
+msgid "Status"
+msgstr "Situação"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:339
+msgid "(no title)"
+msgstr "(sem título)"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:345
+msgid "Published"
+msgstr "Publicado"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:348
+msgid "Scheduled"
+msgstr "Agendado"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:351
+msgid "Pending Review"
+msgstr "Pendente de revisão"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:354
+msgid "Draft"
+msgstr "Rascunho"
+
+#. translators: date format in table columns, see http:php.net/date
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:362
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-sitelogo-wporg.php:165
+msgid "Display Header Text"
+msgstr "Mostrar texto no cabeçalho"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-sitelogo-wporg.php:194
+msgid "Site Logo"
+msgstr "Logótipo do site"
+
+#: includes/wpcom.php:65
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: includes/wpcom.php:66
+msgid "Proudly powered by %s"
+msgstr "Orgulhosamente movido a %s"
+
+#: includes/wpcom.php:71
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s. "
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: templates/parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: templates/parts/content-none.php:21
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto para publicar o primeiro artigo? <a href=\\”%1$s\\”>Comece aqui</a>."
+
+#: templates/parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada coincide com os seus critérios de pesquisa. Por favor, "
+"tente novamente com algumas palavras-chave diferentes."
+
+#: templates/parts/content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não conseguimos encontrar o que procura. Talvez uma pesquisa "
+"ajude?"
+
+#. Theme Name of the plugin/theme
+msgid "Shrake"
+msgstr "Shrake"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.cedaro.com/wordpress/themes/shrake/"
+msgstr "http://www.cedaro.com/wordpress/themes/shrake/"
+
+#. Description of the plugin/theme
+msgid ""
+"Shrake is a minimalistic micro-blogging theme focused on your content "
+"through simplicity in design, clean typography, and a focused layout. We "
+"designed it using a mobile-first approach, meaning your content takes center-"
+"stage, regardless of whether your visitors arrive by smartphone, tablet, "
+"laptop, or desktop computer. Featuring a unique fancy scroll experience, "
+"your logo and navigation is resized and remains visible as users scroll down "
+"the page."
+msgstr ""
+"O Shrake é um tema minimalista de micro-blogging, focado no conteúdo pela "
+"simplicidade do design, tipografia fina e layout dedicado. Desenhámo-lo numa "
+"abordagem mobile-first, o que significa que o conteúdo assume o lugar "
+"principal, independentemente de os visitantes acederem com smartphone, "
+"tablet, portátil ou desktop. Destacando uma experiência única de "
+"deslocamento na página, o logo e a navegação são redimensionados e "
+"permanecem visíveis à medida que nos vamos deslocando para baixo."
+
+#. Author of the plugin/theme
+msgid "Cedaro"
+msgstr "Cedaro"
+
+#. Author URI of the plugin/theme
+msgid "http://www.cedaro.com/"
+msgstr "http://www.cedaro.com/"
+
+#. Template Name of the plugin/theme
+msgid "Grid Page"
+msgstr "Página em grelha"
+
+#. Template Name of the plugin/theme
+msgid "List Page"
+msgstr "Página em lista"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Largura total"
+
+#. translators: If there are characters in your language that are not supported
+#. by Arimo, translate this to 'off'. Do not translate into your own language.
+#: functions.php:222
+msgctxt "Arimo: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'latin-ext'. Do not translate into your own
+#. language.
+#: functions.php:227
+msgctxt "Add new subset (latin-ext)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: includes/template-tags.php:316
+msgctxt "Previous post link"
+msgid "<span class=\"screen-reader-text\">Previous Post: %title</span>"
+msgstr "<span class=“screen-reader-text”>Anterior: %title</span>"
+
+#: includes/template-tags.php:317
+msgctxt "Next post link"
+msgid "<span class=\"screen-reader-text\">Next Post: %title</span>"
+msgstr "<span class=“screen-reader-text”>Seguinte: %title</span>"
+
+#: includes/template-tags.php:321
+msgctxt "Previous posts link"
+msgid "<span class=\"screen-reader-text\">Previous</span>"
+msgstr "<span class=“screen-reader-text”>Anterior</span>"
+
+#: includes/template-tags.php:322
+msgctxt "Next posts link"
+msgid "<span class=\"screen-reader-text\">Next</span>"
+msgstr "<span class=“screen-reader-text”>Seguinte</span>"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme.php:222
+msgctxt "suffix for paged archive titles"
+msgid "Page %s"
+msgstr "Página %s"
+
+#: templates/parts/content-none-page-type.php:17
+msgctxt "list page"
+msgid "There currently are not any items available."
+msgstr "Não existem quaisquer itens disponíveis."
+
+#. translators: there is a space at the begining of this sentence.
+#: templates/parts/content-none-page-type.php:21
+msgctxt "list page label; create page link"
+msgid ""
+" Create a <a href=\"%1$s\">new page</a> with this page as its <a href=\"%2$s"
+"\">parent</a>."
+msgstr ""
+" Crie uma <a href=“%1$s”>nova página dependente</a>, esta servirá de <a "
+"href=“%2$s”>base</a>."
